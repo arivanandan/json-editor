@@ -1,1 +1,1 @@
-npm starto!
+npm run starto!
