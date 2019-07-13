@@ -15,8 +15,10 @@
   "address": "976 Allen Avenue, Sugartown, Alaska, 1086",
   "about": "Nostrud amet proident officia laborum nisi aliquip id. Ut quis officia tempor tempor. Anim adipisicing dolor et ut nostrud in aliqua magna.\r\n",
   "registered": "2015-12-18T08:17:18 -06:-30",
-  "latitude": 5.965326,
-  "longitude": 9.445899,
+  "location": {
+    "latitude": 5.965326,
+    "longitude": 9.445899
+  },
   "tags": [
     "Lorem",
     "ex",
